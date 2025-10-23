@@ -1,5 +1,5 @@
-# Sensei
-RAG Chatbot, developed for Akbank GAIB and powered by Gemini, that recommends movies based on "sense".
+# SENSEİ >> Sense + Movie
+RAG Chatbot, developed for Akbank GAIH and powered by Gemini, that recommends movies based on "sense".
 ## Proje Fikri
 Proje özellikle duygu yoğunluğu yaşanılan zamanlarda film izleyerek kafa dağıtma hobisi olanlara özel hazırlanmıştır.
 Projedeki istenilen sonuç ; Kullanıcının ruh halini stabil(normal) duruma indirgemek, özellikle stres seviyesini kısaltmaktır.
@@ -101,4 +101,4 @@ Projenin çalışan versiyonuna aşağıdaki linkten ulaşabilirsiniz:
 ![Sensei Chatbot Ekran Görüntüsü](app_screenshot.png/Ekran%20görüntüsü%202025-10-24%20000113.png)
 ![Sensei Chatbot Ekran Görüntüsü](app_screenshot.png/Ekran%20görüntüsü%202025-10-23%20223756.png)
 
-**Deploy Linki:** [Proje Dağıtım Bağlantınız Buraya Gelecek]
+**Deploy Linki:** [(https://sense-movie-chatbot.streamlit.app/)]
