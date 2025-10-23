@@ -75,16 +75,16 @@ Bu projenin yerel olarak çalıştırılması için gerekli adımlar aşağıdad
     ```bash
     streamlit run chatbot_project.py
     ```
-    (eğer çalıştırılmada hatalar olursa yapılması gerekenler sırayla:
-    .1 İmport kütüphanelerin kontrolü eğer emin olunmazsa tekrar silip baştan kurma
-    .2 İmport hatalarında "comminity(güvenli bağlan seçenekleri)" denenmeli
-    .3 Veri çekememe - chroma db klasör yoluyla silinmeli, tekrar import edilmeli (veri dosyası çalıştırılarak)
-       - eski vt silmek için windows powershell/cmd yolları farklıdır!
-    .4 venv dosyası kontrolü hatalar çözülmez ise tekrar silinip kurulabilir
-    .5 proje açılıp tarayıcıda alınan hatalardan biri rag temelli retriever ın yanlış bilgi çekmesi =>> {k=5} ayarlanabilir
-    .6 tarayıcıda alınan hatalardan bir diğeri api kullanım kotası dolmuş olması >> sıfırlanması için (24 saat) bekleyiniz
-    .7 API key tanıyamama hatası =>> !!hardcore tekniği ile önce veri seti dosyasına gömüp, sonra terminale api_key aracılığıyla tanımlanıp, güvenlik kontrolü için çalıştıktan sonra silinmeli!!
-    .8 En Basit Hata >> python kodları tam yerinde istiyor dolayısıyla kod doğru bile olsa problem kısmında hata fırlatır kontrol sağlayınız.
+    (eğer çalıştırılmada hatalar olursa yapılması gerekenler sırayla:  
+    .1 İmport kütüphanelerin kontrolü eğer emin olunmazsa tekrar silip baştan kurma  
+    .2 İmport hatalarında "comminity(güvenli bağlan seçenekleri)" denenmeli  
+    .3 Veri çekememe - chroma db klasör yoluyla silinmeli, tekrar import edilmeli (veri dosyası çalıştırılarak)  
+        eski vt silmek için windows powershell/cmd yolları farklıdır!  
+    .4 venv dosyası kontrolü hatalar çözülmez ise tekrar silinip kurulabilir  
+    .5 proje açılıp tarayıcıda alınan hatalardan biri rag temelli retriever ın yanlış bilgi çekmesi =>> {k=5} ayarlanabilir  
+    .6 tarayıcıda alınan hatalardan bir diğeri api kullanım kotası dolmuş olması >> sıfırlanması için (24 saat) bekleyiniz  
+    .7 API key tanıyamama hatası =>> !!hardcore tekniği ile önce veri seti dosyasına gömüp, sonra terminale api_key aracılığıyla tanımlanıp, güvenlik kontrolü için çalıştıktan sonra silinmeli!!  
+    .8 En Basit Hata >> python kodları tam yerinde istiyor dolayısıyla kod doğru bile olsa problem kısmında hata fırlatır kontrol sağlayınız.  
     )
 
 ## 📈 5. Elde Edilen Sonuçlar Özeti
